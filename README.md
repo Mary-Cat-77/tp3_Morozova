@@ -21,7 +21,7 @@
 
 ## График зависимости времени выполнения функции поиска максимума от количества чисел в файле:
 
-![Picture](https://github.com/Mary-Cat-77/tp3_Morozova/blob/main/Диаграмма%20вариантов%20использования.png)
+![Picture](https://github.com/Mary-Cat-77/tp3_Morozova/blob/main/Диаграмма%20последовательности.png)
 
 
 
